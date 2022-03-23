@@ -1,8 +1,8 @@
 # Install 
-git clone git@github.com:rezurrector/esalon-test.git
-cd esalon-test.git
-npm install
-npm start 
+git clone git@github.com:rezurrector/esalon-test.git   
+cd esalon-test.git   
+npm install   
+npm start    
 
 # Test IP Addresses
 PST   
